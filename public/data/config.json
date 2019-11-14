@@ -1,0 +1,28 @@
+{
+  "verbProperties": [
+    {
+      "id": "rank",
+      "name": "rank"
+	},
+	{
+      "id": "imperfective",
+      "name": "imperfective"
+	},
+	{
+      "id": "perfective",
+      "name": "perfective"
+	},
+	{
+      "id": "translation",
+      "name": "translation"
+    },
+	{
+      "id": "verb",
+      "name": "verb"
+    }
+  ],
+  "cardConfig": {
+    "front": ["imperfective"],
+    "back": ["perfective"]
+  }
+}

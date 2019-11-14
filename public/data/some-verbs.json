@@ -1,0 +1,39 @@
+[
+	{
+		"rank": 2,
+		"verb": "сказать",
+		"translation": "to say, speak",
+		"isPair": true,
+		"imperfective": "говорить",
+		"perfective": "сказать"
+	}, {
+		"rank": 3,
+		"verb": "мочь",
+		"translation": "be able",
+		"isPair": true,
+		"imperfective": "мочь",
+		"perfective": "смочь"
+	},
+	{
+		"rank": 4,
+		"verb": "говорить",
+		"translation": "to say, tell, speak",
+		"isPair": true,
+		"imperfective": "говорить",
+		"perfective": "сказать"
+	}, {
+		"rank": 5,
+		"verb": "знать",
+		"translation": "to know, be aware",
+		"isPair": true,
+		"imperfective": "знать",
+		"perfective": "узнать"
+  },
+  {
+		"rank": 1,
+		"verb": "быть",
+		"translation": "to be, have",
+		"isPair": false,
+		"exception": "imperfective, no pair<br>(see бывать, побыть)"
+  }
+]
