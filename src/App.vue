@@ -17,9 +17,9 @@ export default {
     axios
       .get("/data/some-verbs.json")
       .then(response => {
-		console.log(response);
-		// this.$store.getters.verbs = response.data;
-		this.$store.state.verbs = response.data;
+        console.log(response);
+        // this.$store.getters.verbs = response.data;
+        this.$store.state.verbs = response.data;
       })
       .catch(error => {
         console.warn(error);

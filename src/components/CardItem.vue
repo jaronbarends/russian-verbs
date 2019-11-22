@@ -1,7 +1,16 @@
 <template>
-  <li class="card-item">Card</li>
+  <li class="card-item">
+    {{ verb.imperfective }}
+  </li>
 </template>
 
 <script>
-export default {};
+export default {
+  props: {
+    verb: {
+      type: Object,
+      default: () => ({}),
+    },
+  }
+};
 </script>
