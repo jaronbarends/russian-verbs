@@ -8,7 +8,23 @@ import getters from './getters';
 
 export const store = new Vuex.Store({
 	state: {
-		verbs: null,
+    verbs: [],
+    cardConfig: {
+      front: {
+        rank: false,
+        verb: true,
+        translation: false,
+        imperfective: true,
+        perfective: false,
+      },
+      back: {
+        rank: false,
+        verb: false,
+        translation: true,
+        imperfective: false,
+        perfective: true,
+      },
+    }
 	},
 	getters,
 });

@@ -1,5 +1,6 @@
 <template>
   <div>
+    <card-configurator />
     <card-list />
   </div>
 </template>
@@ -7,11 +8,13 @@
 <script>
 import axios from "axios";
 import types from './store/types';
+import CardConfigurator from "./components/CardConfigurator.vue";
 import CardList from "./components/CardsList.vue";
 
 export default {
   components: {
-    CardList
+    CardConfigurator,
+    CardList,
   },
   mounted() {
     axios
