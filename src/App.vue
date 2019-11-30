@@ -18,7 +18,8 @@ export default {
   },
   mounted() {
     axios
-      .get("/data/some-verbs.json")
+      // .get("/data/some-verbs.json")
+      .get("/data/500-verbs.json")
       .then(response => {
         console.log(response);
         // this.$store.getters.verbs = response.data;
@@ -32,4 +33,24 @@ export default {
 </script>
 
 <style>
+  :root {
+    --color-grey-light: #ccc;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  body {
+    font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  }
+
+  .in-russian {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  .o-list--bare {
+    list-style: none;
+    padding-left: 0;
+  }
 </style>

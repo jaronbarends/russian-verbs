@@ -22,7 +22,7 @@
     }
   ],
   "cardConfig": {
-    "front": ["imperfective"],
-    "back": ["perfective"]
+    "sideA": ["imperfective"],
+    "sideB": ["perfective"]
   }
 }

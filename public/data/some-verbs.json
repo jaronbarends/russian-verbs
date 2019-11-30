@@ -21,7 +21,8 @@
 		"isPair": true,
 		"imperfective": "говорить",
 		"perfective": "сказать"
-	}, {
+  },
+  {
 		"rank": 5,
 		"verb": "знать",
 		"translation": "to know, be aware",

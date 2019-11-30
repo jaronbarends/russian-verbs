@@ -10,20 +10,21 @@ export const store = new Vuex.Store({
 	state: {
     verbs: [],
     cardConfig: {
-      front: {
+      sideA: {
         rank: false,
         verb: true,
         translation: false,
         imperfective: true,
         perfective: false,
       },
-      back: {
+      sideB: {
         rank: false,
         verb: false,
         translation: true,
         imperfective: false,
         perfective: true,
       },
+      questionSide: 'sideA',
     }
 	},
 	getters,
