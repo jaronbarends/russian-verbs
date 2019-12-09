@@ -25,6 +25,9 @@ export const store = new Vuex.Store({
         perfective: true,
       },
       questionSide: 'sideA',
+    },
+    progress: {
+      currIdx: 0,
     }
 	},
 	getters,

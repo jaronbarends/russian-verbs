@@ -1,6 +1,5 @@
 <template>
   <div :class="cssClasses.face">
-    
     <div  v-if="faceConfig.imperfective">
       <h3 :class="$style['verb-property']">imperfective</h3>
       <h2 :class="$style['verb-card__title']" class="in-russian">{{ verb.imperfective }}</h2>
@@ -29,8 +28,8 @@
     <div
       v-else
       class="card-actions">
-      <button @click="$emit('flip');" class="btn btn--secondary">Turn</button>
-      <button @click="$emit('flip');" class="btn btn--primary">Next</button>
+      <button @click="turnClick" class="btn btn--secondary">Turn</button>
+      <button @click="nextClick" class="btn btn--primary">Next</button>
     </div>
 
     <!-- <div  -->
@@ -71,6 +70,16 @@ export default {
       };
     }
   },
+  methods: {
+    turnClick() {
+      console.log('turn');
+      this.$emit('flip');
+    },
+    nextClick() {
+      console.log('next');
+      this.$emit('flip');
+    },
+  },
 }
 </script>
 
@@ -78,13 +87,13 @@ export default {
   .card-face {
     border: 1px solid var(--color-grey-light);
     padding: 1rem;
-    width: 12rem;
-    height: 16rem;
     text-align: center;
+    background: white;
   }
 
   .card-face--is-hidden {
-    opacity: 0.5;
+    /* opacity: 0.5; */
+    pointer-events: none;
   }
 
   h2 {

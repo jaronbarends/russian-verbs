@@ -21,8 +21,11 @@ export default {
       // .get("/data/some-verbs.json")
       .get("/data/500-verbs.json")
       .then(response => {
-        console.log(response);
-        // this.$store.getters.verbs = response.data;
+        // console.log(response);
+        const data = response.data;
+        data.forEach((entry, i) => {
+          entry.id = i;
+        });
         this.$store.state.verbs = response.data;
       })
       .catch(error => {
@@ -43,6 +46,10 @@ export default {
 
   body {
     font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  }
+
+  button {
+    cursor: pointer;
   }
 
   .in-russian {
