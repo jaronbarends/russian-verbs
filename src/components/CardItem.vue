@@ -7,18 +7,20 @@
         ref="sideA"
         :isActive="activeFace === 'sideA'"
         :class="$style['card-face']"
-        @flip="flipCard" />
+        @turnCard="turnCard" />
       <card-face
         :verb="verb"
         side="sideB"
         ref="sideB"
         :isActive="activeFace === 'sideB'"
         :class="sideBClasses"
-        @flip="flipCard" />
+        @turnCard="turnCard"
+        @nextCard="nextCard" />
     </div>
   </li>
 </template>
 <script>
+import { mapGetters } from 'vuex';
 import CardFace from './CardFace.vue';
 
 export default {
@@ -28,6 +30,7 @@ export default {
     };
   },
   computed: {
+    ...mapGetters(['verbs']),
     cardClasses() {
       const itemClass = this.$style['card'];
       const sideBActiveClass = this.$style['side-b-active'];
@@ -55,8 +58,15 @@ export default {
     CardFace,
   },
   methods: {
-    flipCard() {
+    turnCard() {
       this.activeFace = this.activeFace === 'sideA' ? 'sideB' : 'sideA';
+    },
+    nextCard() {
+      let newIdx = this.$store.state.progress.currIdx + 1;
+      if (newIdx >= this.verbs.length) {
+        newIdx = 0;
+      }
+      this.$store.state.progress.currIdx = newIdx;
     }
   }
 };
@@ -65,6 +75,7 @@ export default {
 <style module>
   .card-item {
     /* wrapper around card */
+    flex: 0 0 auto;
     position: relative;
     margin-bottom: 2em;
     perspective: 1000px;

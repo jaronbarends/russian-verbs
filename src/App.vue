@@ -18,8 +18,8 @@ export default {
   },
   mounted() {
     axios
-      // .get("/data/some-verbs.json")
-      .get("/data/500-verbs.json")
+      .get("/data/some-verbs.json")
+      // .get("/data/500-verbs.json")
       .then(response => {
         // console.log(response);
         const data = response.data;

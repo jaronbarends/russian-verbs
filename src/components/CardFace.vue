@@ -23,13 +23,13 @@
     <div
       v-if="this.side === cardConfig.questionSide"
       class="card-actions">
-      <button @click="$emit('flip');" class="btn btn--primary">Turn</button>
+      <button @click="$emit('turnCard');" class="btn btn--primary">Turn</button>
     </div>
     <div
       v-else
       class="card-actions">
-      <button @click="turnClick" class="btn btn--secondary">Turn</button>
-      <button @click="nextClick" class="btn btn--primary">Next</button>
+      <button @click="$emit('turnCard');" class="btn btn--secondary">Turn</button>
+      <button @click="$emit('nextCard');" class="btn btn--primary">Next</button>
     </div>
 
     <!-- <div  -->
@@ -70,16 +70,6 @@ export default {
       };
     }
   },
-  methods: {
-    turnClick() {
-      console.log('turn');
-      this.$emit('flip');
-    },
-    nextClick() {
-      console.log('next');
-      this.$emit('flip');
-    },
-  },
 }
 </script>
 
@@ -92,7 +82,6 @@ export default {
   }
 
   .card-face--is-hidden {
-    /* opacity: 0.5; */
     pointer-events: none;
   }
 

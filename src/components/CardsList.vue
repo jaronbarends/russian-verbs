@@ -1,6 +1,9 @@
 <template>
     <ul :class="$style['cards-list']" class="o-list-bare">
-      <card-item v-for="(verb, index) in verbs" v-if="index < 30" :key="verb.rank" :verb="verb" />
+      <card-item v-for="(verb, idx) in verbs"
+        v-if="idx === $store.state.progress.currIdx"
+        :key="verb.id"
+        :verb="verb" />
     </ul>
 </template>
 
@@ -21,6 +24,7 @@ export default {
 <style module>
 
   .cards-list {
+    display: flex;
     padding: 0;
     list-style-type: none;
   }
