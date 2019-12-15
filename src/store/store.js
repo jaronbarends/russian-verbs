@@ -11,15 +11,19 @@ export const store = new Vuex.Store({
     verbs: [],
     cardConfig: {
       sideA: {
-        rank: false,
-        verb: true,
+        rank: true,
+        verb: false,
+        mainVerb: true,
+        oppositeVerb: false,
         translation: false,
         imperfective: true,
         perfective: false,
       },
       sideB: {
-        rank: false,
+        rank: true,
         verb: false,
+        mainVerb: false,
+        oppositeVerb: true,
         translation: true,
         imperfective: false,
         perfective: true,

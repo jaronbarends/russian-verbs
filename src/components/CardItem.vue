@@ -7,7 +7,9 @@
         ref="sideA"
         :isActive="activeFace === 'sideA'"
         :class="$style['card-face']"
-        @turnCard="turnCard" />
+        @turnCard="turnCard"
+        @nextCard="nextCard"
+        @prevCard="prevCard" />
       <card-face
         :verb="verb"
         side="sideB"
@@ -15,7 +17,8 @@
         :isActive="activeFace === 'sideB'"
         :class="sideBClasses"
         @turnCard="turnCard"
-        @nextCard="nextCard" />
+        @nextCard="nextCard"
+        @prevCard="prevCard" />
     </div>
   </li>
 </template>
@@ -67,6 +70,13 @@ export default {
         newIdx = 0;
       }
       this.$store.state.progress.currIdx = newIdx;
+    },
+    prevCard() {
+      let newIdx = this.$store.state.progress.currIdx - 1;
+      if (newIdx < 0) {
+        newIdx = this.verbs.length - 1;
+      }
+      this.$store.state.progress.currIdx = newIdx;
     }
   }
 };
@@ -79,8 +89,8 @@ export default {
     position: relative;
     margin-bottom: 2em;
     perspective: 1000px;
-    width: 12rem;
-    height: 16rem;
+    width: 100%;
+    height: 100%;
   }
 
   .card {
@@ -102,7 +112,6 @@ export default {
     position: absolute;
     top: 0;
     left: 0;
-    display: block;
     width: 100%;
     height: 100%;
   }
