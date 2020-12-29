@@ -4,7 +4,7 @@
 		"verb": "быть",
 		"translation": "to be, have",
 		"isPair": false,
-		"exception": "imperfective, no pair<br>(see бывать, побыть)"
+		"exception": "imperfective, no pair(see бывать, побыть)"
 	},
 	{
 		"rank": "2",
@@ -329,7 +329,7 @@
 		"translation": "to return",
 		"isPair": true,
 		"imperfective": "возвращаться",
-		"perfective": "<br>вернуться"
+		"perfective": "вернуться"
 	},
 	{
 		"rank": "43",
@@ -489,7 +489,7 @@
 		"translation": "to feel",
 		"isPair": true,
 		"imperfective": "чувствовать",
-		"perfective": "<br>почувствовать"
+		"perfective": "почувствовать"
 	},
 	{
 		"rank": "63",
@@ -513,7 +513,7 @@
 		"translation": "to continue",
 		"isPair": true,
 		"imperfective": "продолжать",
-		"perfective": "<br>продолжить"
+		"perfective": "продолжить"
 	},
 	{
 		"rank": "66",
@@ -537,7 +537,7 @@
 		"translation": "to appear, show up",
 		"isPair": true,
 		"imperfective": "появляться",
-		"perfective": "<br>появиться"
+		"perfective": "появиться"
 	},
 	{
 		"rank": "69",
@@ -577,7 +577,7 @@
 		"translation": "to remember, recall",
 		"isPair": true,
 		"imperfective": "вспоминать",
-		"perfective": "<br>вспомнить"
+		"perfective": "вспомнить"
 	},
 	{
 		"rank": "74",
@@ -680,7 +680,7 @@
 		"translation": "to follow, come next",
 		"isPair": true,
 		"imperfective": "следовать",
-		"perfective": "<br>последовать"
+		"perfective": "последовать"
 	},
 	{
 		"rank": "87",
@@ -688,7 +688,7 @@
 		"translation": "to tell, narrate",
 		"isPair": true,
 		"imperfective": "рассказывать",
-		"perfective": "<br>рассказать"
+		"perfective": "рассказать"
 	},
 	{
 		"rank": "88",
@@ -728,7 +728,7 @@
 		"translation": "to tell, narrate",
 		"isPair": true,
 		"imperfective": "рассказывать",
-		"perfective": "<br>рассказать"
+		"perfective": "рассказать"
 	},
 	{
 		"rank": "93",
@@ -752,7 +752,7 @@
 		"translation": "to stop",
 		"isPair": true,
 		"imperfective": "останавливаться",
-		"perfective": "<br>остановиться"
+		"perfective": "остановиться"
 	},
 	{
 		"rank": "96",
@@ -832,7 +832,7 @@
 		"translation": "to happen, occur, take place",
 		"isPair": true,
 		"imperfective": "происходить",
-		"perfective": "<br>произойти"
+		"perfective": "произойти"
 	},
 	{
 		"rank": "106",
@@ -856,7 +856,7 @@
 		"translation": "to rise, climb",
 		"isPair": true,
 		"imperfective": "подниматься",
-		"perfective": "<br>подняться"
+		"perfective": "подняться"
 	},
 	{
 		"rank": "109",
@@ -864,7 +864,7 @@
 		"translation": "to appear, come in sight",
 		"isPair": true,
 		"imperfective": "показываться",
-		"perfective": "<br>показаться"
+		"perfective": "показаться"
 	},
 	{
 		"rank": "110",
@@ -872,7 +872,7 @@
 		"translation": "to gather together, assemble; intend",
 		"isPair": true,
 		"imperfective": "собираться",
-		"perfective": "<br>собраться"
+		"perfective": "собраться"
 	},
 	{
 		"rank": "111",
@@ -927,7 +927,7 @@
 		"translation": "to try, endeavour",
 		"isPair": true,
 		"imperfective": "стараться",
-		"perfective": "<br>постараться"
+		"perfective": "постараться"
 	},
 	{
 		"rank": "118",
@@ -943,7 +943,7 @@
 		"translation": "to happen, occur, take place",
 		"isPair": true,
 		"imperfective": "происходить",
-		"perfective": "<br>произойти"
+		"perfective": "произойти"
 	},
 	{
 		"rank": "120",
@@ -991,7 +991,7 @@
 		"translation": "to pass, go; study",
 		"isPair": true,
 		"imperfective": "проходи́ть",
-		"perfective": "<br>пройти́"
+		"perfective": "пройти́"
 	},
 	{
 		"rank": "126",
@@ -1015,7 +1015,7 @@
 		"translation": "to present, introduce, imagine",
 		"isPair": true,
 		"imperfective": "представлять",
-		"perfective": "<br>представить"
+		"perfective": "представить"
 	},
 	{
 		"rank": "129",
@@ -1031,7 +1031,7 @@
 		"translation": "to pronounce, say, utter",
 		"isPair": true,
 		"imperfective": "произносить",
-		"perfective": "<br>произнести"
+		"perfective": "произнести"
 	},
 	{
 		"rank": "131",
@@ -1039,7 +1039,7 @@
 		"translation": "to please, like",
 		"isPair": true,
 		"imperfective": "нравиться",
-		"perfective": "<br>понравиться"
+		"perfective": "понравиться"
 	},
 	{
 		"rank": "132",
@@ -1070,7 +1070,7 @@
 		"translation": "to present, produce, introduce",
 		"isPair": true,
 		"imperfective": "представлять",
-		"perfective": "<br>представить"
+		"perfective": "представить"
 	},
 	{
 		"rank": "136",
@@ -1118,7 +1118,7 @@
 		"translation": "to feel",
 		"isPair": true,
 		"imperfective": "чувствовать",
-		"perfective": "<br>почувствовать"
+		"perfective": "почувствовать"
 	},
 	{
 		"rank": "142",
@@ -1134,7 +1134,7 @@
 		"translation": "to agree, consent",
 		"isPair": true,
 		"imperfective": "соглашаться",
-		"perfective": "<br>согласиться"
+		"perfective": "согласиться"
 	},
 	{
 		"rank": "144",
@@ -1166,7 +1166,7 @@
 		"translation": "to offer, propose, suggest",
 		"isPair": true,
 		"imperfective": "предлагать",
-		"perfective": "<br>предложить"
+		"perfective": "предложить"
 	},
 	{
 		"rank": "148",
@@ -1174,7 +1174,7 @@
 		"translation": "to fit, fall; have to",
 		"isPair": true,
 		"imperfective": "приходиться",
-		"perfective": "<br>прийтись"
+		"perfective": "прийтись"
 	},
 	{
 		"rank": "149",
@@ -1673,7 +1673,7 @@
 		"translation": "to wonder, be surprised",
 		"isPair": true,
 		"imperfective": "удивляться",
-		"perfective": "<br>удивиться"
+		"perfective": "удивиться"
 	},
 	{
 		"rank": "212",
@@ -1710,7 +1710,7 @@
 		"translation": "to get used to, to grow accustomed to",
 		"isPair": true,
 		"imperfective": "привыкать",
-		"perfective": "<br>привыкнуть"
+		"perfective": "привыкнуть"
 	},
 	{
 		"rank": "217",
@@ -1734,7 +1734,7 @@
 		"translation": "to arise, spring up",
 		"isPair": true,
 		"imperfective": "возникать",
-		"perfective": "<br>возникнуть"
+		"perfective": "возникнуть"
 	},
 	{
 		"rank": "220",
@@ -1750,7 +1750,7 @@
 		"translation": "to try, text",
 		"isPair": true,
 		"imperfective": "пробовать",
-		"perfective": "<br>попробовать"
+		"perfective": "попробовать"
 	},
 	{
 		"rank": "222",
@@ -1758,7 +1758,7 @@
 		"translation": "to come out",
 		"isPair": true,
 		"imperfective": "получаться",
-		"perfective": "<br>получиться"
+		"perfective": "получиться"
 	},
 	{
 		"rank": "223",
@@ -1883,7 +1883,7 @@
 		"translation": "to remind, resemble",
 		"isPair": true,
 		"imperfective": "напоминать",
-		"perfective": "<br>напомнить"
+		"perfective": "напомнить"
 	},
 	{
 		"rank": "239",
@@ -1891,7 +1891,7 @@
 		"translation": "to think, devise, invent",
 		"isPair": true,
 		"imperfective": "придумывать",
-		"perfective": "<br>придумать"
+		"perfective": "придумать"
 	},
 	{
 		"rank": "240",
@@ -1923,7 +1923,7 @@
 		"translation": "to order, command",
 		"isPair": true,
 		"imperfective": "приказывать",
-		"perfective": "<br>приказать"
+		"perfective": "приказать"
 	},
 	{
 		"rank": "244",
@@ -1947,7 +1947,7 @@
 		"translation": "to begin, set to, set about",
 		"isPair": true,
 		"imperfective": "приниматься",
-		"perfective": "<br>приняться"
+		"perfective": "приняться"
 	},
 	{
 		"rank": "247",
@@ -1963,7 +1963,7 @@
 		"translation": "to rise, go up, climb, get up",
 		"isPair": true,
 		"imperfective": "подниматься",
-		"perfective": "<br>подняться"
+		"perfective": "подняться"
 	},
 	{
 		"rank": "249",
@@ -1986,7 +1986,7 @@
 		"translation": "to meet, be found, occur",
 		"isPair": true,
 		"imperfective": "встречаться",
-		"perfective": "<br>встретиться"
+		"perfective": "встретиться"
 	},
 	{
 		"rank": "252",
@@ -2010,7 +2010,7 @@
 		"translation": "to decline, reject, give up",
 		"isPair": true,
 		"imperfective": "отказываться",
-		"perfective": "<br>отказаться"
+		"perfective": "отказаться"
 	},
 	{
 		"rank": "255",
@@ -2018,7 +2018,7 @@
 		"translation": "to take out, pull out, extract, steal",
 		"isPair": true,
 		"imperfective": "вытаскивать",
-		"perfective": "<br>вытащить"
+		"perfective": "вытащить"
 	},
 	{
 		"rank": "256",
@@ -2026,7 +2026,7 @@
 		"translation": "to offer, propose, suggest, invite",
 		"isPair": true,
 		"imperfective": "предлагать",
-		"perfective": "<br>предложить"
+		"perfective": "предложить"
 	},
 	{
 		"rank": "257",
@@ -2034,7 +2034,7 @@
 		"translation": "to set off, start, leave, depart",
 		"isPair": true,
 		"imperfective": "отправляться",
-		"perfective": "<br>отправиться"
+		"perfective": "отправиться"
 	},
 	{
 		"rank": "258",
@@ -2081,7 +2081,7 @@
 		"translation": "to end, finish, complete",
 		"isPair": true,
 		"imperfective": "заканчивать",
-		"perfective": "<br>закончить"
+		"perfective": "закончить"
 	},
 	{
 		"rank": "264",
@@ -2112,7 +2112,7 @@
 		"translation": "to like (as in \"I liked\")",
 		"isPair": true,
 		"imperfective": "нравиться",
-		"perfective": "<br>понравиться"
+		"perfective": "понравиться"
 	},
 	{
 		"rank": "268",
@@ -2120,7 +2120,7 @@
 		"translation": "to appeal, apply, address",
 		"isPair": true,
 		"imperfective": "обращаться",
-		"perfective": "<br>обратиться"
+		"perfective": "обратиться"
 	},
 	{
 		"rank": "269",
@@ -2183,7 +2183,7 @@
 		"translation": "to appeal, address",
 		"isPair": true,
 		"imperfective": "обращаться",
-		"perfective": "<br>обратиться"
+		"perfective": "обратиться"
 	},
 	{
 		"rank": "277",
@@ -2191,7 +2191,7 @@
 		"translation": "to hurry",
 		"isPair": true,
 		"imperfective": "спешить",
-		"perfective": "<br>поспешить"
+		"perfective": "поспешить"
 	},
 	{
 		"rank": "278",
@@ -2214,7 +2214,7 @@
 		"translation": "to turn out, result in",
 		"isPair": true,
 		"imperfective": "оборачиваться",
-		"perfective": "<br>обернуться"
+		"perfective": "обернуться"
 	},
 	{
 		"rank": "281",
@@ -2222,7 +2222,7 @@
 		"translation": "to wake up",
 		"isPair": true,
 		"imperfective": "просыпаться",
-		"perfective": "<br>проснуться"
+		"perfective": "проснуться"
 	},
 	{
 		"rank": "282",
@@ -2238,7 +2238,7 @@
 		"translation": "to begin to speak, ",
 		"isPair": true,
 		"imperfective": "заговаривать",
-		"perfective": "<br>заговорить"
+		"perfective": "заговорить"
 	},
 	{
 		"rank": "284",
@@ -2253,7 +2253,7 @@
 		"translation": "to repeat",
 		"isPair": true,
 		"imperfective": "повторять",
-		"perfective": "<br>повторить"
+		"perfective": "повторить"
 	},
 	{
 		"rank": "286",
@@ -2322,7 +2322,7 @@
 		"translation": "to take into consideration, settle with",
 		"isPair": true,
 		"imperfective": "считаться",
-		"perfective": "<br>посчитаться"
+		"perfective": "посчитаться"
 	},
 	{
 		"rank": "295",
@@ -2338,7 +2338,7 @@
 		"translation": "to stop",
 		"isPair": true,
 		"imperfective": "останавливать",
-		"perfective": "<br>остановить"
+		"perfective": "остановить"
 	},
 	{
 		"rank": "297",
@@ -2346,7 +2346,7 @@
 		"translation": "to meet, be found, occur",
 		"isPair": true,
 		"imperfective": "встречаться",
-		"perfective": "<br>встретиться"
+		"perfective": "встретиться"
 	},
 	{
 		"rank": "298",
@@ -2393,7 +2393,7 @@
 		"translation": "to allow, permit, enable",
 		"isPair": true,
 		"imperfective": "позволять",
-		"perfective": "<br>позволить"
+		"perfective": "позволить"
 	},
 	{
 		"rank": "304",
@@ -2496,7 +2496,7 @@
 		"translation": "to give a short laugh, smile slightly, grin",
 		"isPair": true,
 		"imperfective": "усмехаться",
-		"perfective": "<br>усмехнуться"
+		"perfective": "усмехнуться"
 	},
 	{
 		"rank": "317",
@@ -2512,7 +2512,7 @@
 		"translation": "to bear, stand, endure",
 		"isPair": true,
 		"imperfective": "выдерживать",
-		"perfective": "<br>выдержать"
+		"perfective": "выдержать"
 	},
 	{
 		"rank": "319",
@@ -2536,7 +2536,7 @@
 		"translation": "to let go, release",
 		"isPair": true,
 		"imperfective": "отпускать",
-		"perfective": "<br>отпустить"
+		"perfective": "отпустить"
 	},
 	{
 		"rank": "322",
@@ -2575,7 +2575,7 @@
 		"translation": "to be heard (as in \"there was a knock [heard] on the door\")",
 		"isPair": true,
 		"imperfective": "раздаваться",
-		"perfective": "<br>раздаться"
+		"perfective": "раздаться"
 	},
 	{
 		"rank": "327",
@@ -2583,7 +2583,7 @@
 		"translation": "to explain",
 		"isPair": true,
 		"imperfective": "объяснять",
-		"perfective": "<br>объяснить"
+		"perfective": "объяснить"
 	},
 	{
 		"rank": "328",
@@ -2607,7 +2607,7 @@
 		"translation": "to allow, permit",
 		"isPair": true,
 		"imperfective": "разрешать",
-		"perfective": "<br>разрешить"
+		"perfective": "разрешить"
 	},
 	{
 		"rank": "331",
@@ -2615,7 +2615,7 @@
 		"translation": "to confess, admit",
 		"isPair": true,
 		"imperfective": "признаваться",
-		"perfective": "<br>признаться"
+		"perfective": "признаться"
 	},
 	{
 		"rank": "332",
@@ -2623,7 +2623,7 @@
 		"translation": "to make up, put together, compose",
 		"isPair": true,
 		"imperfective": "составлять",
-		"perfective": "<br>составить"
+		"perfective": "составить"
 	},
 	{
 		"rank": "333",
@@ -2678,7 +2678,7 @@
 		"translation": "to send, forward, mail",
 		"isPair": true,
 		"imperfective": "отправлять",
-		"perfective": "<br>отправить"
+		"perfective": "отправить"
 	},
 	{
 		"rank": "340",
@@ -2702,7 +2702,7 @@
 		"translation": "to peep in, glance, drop in",
 		"isPair": true,
 		"imperfective": "заглядывать",
-		"perfective": "<br>заглянуть"
+		"perfective": "заглянуть"
 	},
 	{
 		"rank": "343",
@@ -2710,7 +2710,7 @@
 		"translation": "to say, talk",
 		"isPair": true,
 		"imperfective": "проговаривать",
-		"perfective": "<br>проговорить"
+		"perfective": "проговорить"
 	},
 	{
 		"rank": "344",
@@ -2718,7 +2718,7 @@
 		"translation": "to check, verify, examine",
 		"isPair": true,
 		"imperfective": "проверять",
-		"perfective": "<br>проверить"
+		"perfective": "проверить"
 	},
 	{
 		"rank": "345",
@@ -2771,7 +2771,7 @@
 		"translation": "to look back, look around",
 		"isPair": true,
 		"imperfective": "оглядываться",
-		"perfective": "<br>оглянуться"
+		"perfective": "оглянуться"
 	},
 	{
 		"rank": "352",
@@ -2779,7 +2779,7 @@
 		"translation": "to invite",
 		"isPair": true,
 		"imperfective": "приглашать",
-		"perfective": "<br>пригласить"
+		"perfective": "пригласить"
 	},
 	{
 		"rank": "353",
@@ -2826,7 +2826,7 @@
 		"translation": "to turn",
 		"isPair": true,
 		"imperfective": "поворачивать",
-		"perfective": "<br>повернуть"
+		"perfective": "повернуть"
 	},
 	{
 		"rank": "359",
@@ -2834,7 +2834,7 @@
 		"translation": "to arrive, reach, get there",
 		"isPair": true,
 		"imperfective": "добираться",
-		"perfective": "<br>добраться"
+		"perfective": "добраться"
 	},
 	{
 		"rank": "360",
@@ -2858,7 +2858,7 @@
 		"translation": "to be in a hurry",
 		"isPair": true,
 		"imperfective": "торопиться",
-		"perfective": "<br>поторопиться"
+		"perfective": "поторопиться"
 	},
 	{
 		"rank": "363",
@@ -2904,7 +2904,7 @@
 		"translation": "to affirm, approve, confirm",
 		"isPair": true,
 		"imperfective": "утверждать",
-		"perfective": "<br>утвердить"
+		"perfective": "утвердить"
 	},
 	{
 		"rank": "369",
@@ -2912,7 +2912,7 @@
 		"translation": "to differ, be notable, distinguish oneself",
 		"isPair": true,
 		"imperfective": "отличаться",
-		"perfective": "<br>отличиться"
+		"perfective": "отличиться"
 	},
 	{
 		"rank": "370",
@@ -2920,7 +2920,7 @@
 		"translation": "to jump out, pop out, come out",
 		"isPair": true,
 		"imperfective": "выскакивать",
-		"perfective": "<br>выскочить"
+		"perfective": "выскочить"
 	},
 	{
 		"rank": "371",
@@ -2966,7 +2966,7 @@
 		"translation": "to meet, make the acquaintance",
 		"isPair": true,
 		"imperfective": "знакомиться",
-		"perfective": "<br>познакомиться"
+		"perfective": "познакомиться"
 	},
 	{
 		"rank": "377",
@@ -2998,7 +2998,7 @@
 		"translation": "to guess, to have the sense to",
 		"isPair": true,
 		"imperfective": "догадываться",
-		"perfective": "<br>догадаться"
+		"perfective": "догадаться"
 	},
 	{
 		"rank": "381",
@@ -3022,7 +3022,7 @@
 		"translation": "to disassemble, unpack, to look into, examine",
 		"isPair": true,
 		"imperfective": "разбираться",
-		"perfective": "<br>разобраться"
+		"perfective": "разобраться"
 	},
 	{
 		"rank": "384",
@@ -3062,7 +3062,7 @@
 		"translation": "to worry, be upset, be rough",
 		"isPair": true,
 		"imperfective": "волноваться",
-		"perfective": "<br>взволноваться"
+		"perfective": "взволноваться"
 	},
 	{
 		"rank": "389",
@@ -3118,7 +3118,7 @@
 		"translation": "to change into, turn into, be reduced to",
 		"isPair": true,
 		"imperfective": "превращаться",
-		"perfective": "<br>превратиться"
+		"perfective": "превратиться"
 	},
 	{
 		"rank": "396",
@@ -3142,7 +3142,7 @@
 		"translation": "to define, determine",
 		"isPair": true,
 		"imperfective": "определять",
-		"perfective": "<br>определить"
+		"perfective": "определить"
 	},
 	{
 		"rank": "399",
@@ -3150,7 +3150,7 @@
 		"translation": "to let out, discharge, release",
 		"isPair": true,
 		"imperfective": "выпускать",
-		"perfective": "<br>выпустить"
+		"perfective": "выпустить"
 	},
 	{
 		"rank": "400",
@@ -3158,7 +3158,7 @@
 		"translation": "to come forward, advance, appear, perform",
 		"isPair": true,
 		"imperfective": "выступать",
-		"perfective": "<br>выступить"
+		"perfective": "выступить"
 	},
 	{
 		"rank": "401",
@@ -3166,7 +3166,7 @@
 		"translation": "to look at, consider, regard",
 		"isPair": true,
 		"imperfective": "рассматривать",
-		"perfective": "<br>рассмотреть"
+		"perfective": "рассмотреть"
 	},
 	{
 		"rank": "402",
@@ -3190,7 +3190,7 @@
 		"translation": "to transfer, translate",
 		"isPair": true,
 		"imperfective": "переводить",
-		"perfective": "<br>перевести"
+		"perfective": "перевести"
 	},
 	{
 		"rank": "405",
@@ -3238,7 +3238,7 @@
 		"translation": "to stop",
 		"isPair": true,
 		"imperfective": "останавливаться",
-		"perfective": "<br>остановиться"
+		"perfective": "остановиться"
 	},
 	{
 		"rank": "411",
@@ -3277,7 +3277,7 @@
 		"translation": "to fulfill, carry out, execute, make",
 		"isPair": true,
 		"imperfective": "выполнять",
-		"perfective": "<br>выполнить"
+		"perfective": "выполнить"
 	},
 	{
 		"rank": "416",
@@ -3285,7 +3285,7 @@
 		"translation": "to be required, be needed",
 		"isPair": true,
 		"imperfective": "требоваться",
-		"perfective": "<br>потребоваться"
+		"perfective": "потребоваться"
 	},
 	{
 		"rank": "417",
@@ -3309,7 +3309,7 @@
 		"translation": "to calm down, quiet, settle down, abate",
 		"isPair": true,
 		"imperfective": "успокоиться",
-		"perfective": "<br>успокаиваться"
+		"perfective": "успокаиваться"
 	},
 	{
 		"rank": "420",
@@ -3317,7 +3317,7 @@
 		"translation": "to approach, near",
 		"isPair": true,
 		"imperfective": "приближаться",
-		"perfective": "<br>приблизиться"
+		"perfective": "приблизиться"
 	},
 	{
 		"rank": "421",
@@ -3349,7 +3349,7 @@
 		"translation": "to come down, descend, land, settle",
 		"isPair": true,
 		"imperfective": "спускаться",
-		"perfective": "<br>спуститься"
+		"perfective": "спуститься"
 	},
 	{
 		"rank": "425",
@@ -3357,7 +3357,7 @@
 		"translation": "to install, place, mount",
 		"isPair": true,
 		"imperfective": "устанавливать",
-		"perfective": "<br>установить"
+		"perfective": "установить"
 	},
 	{
 		"rank": "426",
@@ -3405,7 +3405,7 @@
 		"translation": "to ponder, become thoughtful, hesitate",
 		"isPair": true,
 		"imperfective": "задумываться",
-		"perfective": "<br>задуматься"
+		"perfective": "задуматься"
 	},
 	{
 		"rank": "432",
@@ -3429,7 +3429,7 @@
 		"translation": "to change",
 		"isPair": true,
 		"imperfective": "изменяться",
-		"perfective": "<br>измениться"
+		"perfective": "измениться"
 	},
 	{
 		"rank": "435",
@@ -3445,7 +3445,7 @@
 		"translation": "to be surprised, be astonished",
 		"isPair": true,
 		"imperfective": "удивляться",
-		"perfective": "<br>удивиться"
+		"perfective": "удивиться"
 	},
 	{
 		"rank": "437",
@@ -3501,7 +3501,7 @@
 		"translation": "to speed, rush",
 		"isPair": true,
 		"imperfective": "стремиться",
-		"perfective": "<br>устремиться"
+		"perfective": "устремиться"
 	},
 	{
 		"rank": "444",
@@ -3541,7 +3541,7 @@
 		"translation": "to interest",
 		"isPair": true,
 		"imperfective": "интересовать",
-		"perfective": "<br>заинтересовать"
+		"perfective": "заинтересовать"
 	},
 	{
 		"rank": "449",
@@ -3573,7 +3573,7 @@
 		"translation": "to open, come to light",
 		"isPair": true,
 		"imperfective": "открываться",
-		"perfective": "<br>открыться"
+		"perfective": "открыться"
 	},
 	{
 		"rank": "453",
@@ -3581,7 +3581,7 @@
 		"translation": "to direct, aim, send",
 		"isPair": true,
 		"imperfective": "направлять",
-		"perfective": "<br>направить"
+		"perfective": "направить"
 	},
 	{
 		"rank": "454",
@@ -3589,7 +3589,7 @@
 		"translation": "to memorize, remember",
 		"isPair": true,
 		"imperfective": "запоминать",
-		"perfective": "<br>запомнить"
+		"perfective": "запомнить"
 	},
 	{
 		"rank": "455",
@@ -3637,7 +3637,7 @@
 		"translation": "to remind, resemble",
 		"isPair": true,
 		"imperfective": "напоминать",
-		"perfective": "<br>напомнить"
+		"perfective": "напомнить"
 	},
 	{
 		"rank": "461",
@@ -3645,7 +3645,7 @@
 		"translation": "to doubt, hesitate",
 		"isPair": true,
 		"imperfective": "сомневаться",
-		"perfective": "<br>засомневаться"
+		"perfective": "засомневаться"
 	},
 	{
 		"rank": "462",
@@ -3653,7 +3653,7 @@
 		"translation": "to be glad, happy",
 		"isPair": true,
 		"imperfective": "радоваться",
-		"perfective": "<br>обрадоваться"
+		"perfective": "обрадоваться"
 	},
 	{
 		"rank": "463",
@@ -3677,7 +3677,7 @@
 		"translation": "to seize, capture, thrill",
 		"isPair": true,
 		"imperfective": "захватывать",
-		"perfective": "<br>захватить"
+		"perfective": "захватить"
 	},
 	{
 		"rank": "466",
@@ -3733,7 +3733,7 @@
 		"translation": "to examine",
 		"isPair": true,
 		"imperfective": "разглядывать",
-		"perfective": "<br>разглядеть"
+		"perfective": "разглядеть"
 	},
 	{
 		"rank": "473",
@@ -3757,7 +3757,7 @@
 		"translation": "to cover, protect, conceal",
 		"isPair": true,
 		"imperfective": "прикрывать",
-		"perfective": "<br>прикрыть"
+		"perfective": "прикрыть"
 	},
 	{
 		"rank": "476",
@@ -3789,7 +3789,7 @@
 		"translation": "to confirm",
 		"isPair": true,
 		"imperfective": "подтверждать",
-		"perfective": "<br>подтвердить"
+		"perfective": "подтвердить"
 	},
 	{
 		"rank": "480",
@@ -3853,7 +3853,7 @@
 		"translation": "to be convinced, to make sure",
 		"isPair": true,
 		"imperfective": "убеждаться",
-		"perfective": "<br>убедиться"
+		"perfective": "убедиться"
 	},
 	{
 		"rank": "488",
@@ -3861,7 +3861,7 @@
 		"translation": "to hate, detest, abhor",
 		"isPair": true,
 		"imperfective": "ненавидеть",
-		"perfective": "<br>возненавидеть"
+		"perfective": "возненавидеть"
 	},
 	{
 		"rank": "489",
@@ -3925,7 +3925,7 @@
 		"translation": "to make, carry out, produce",
 		"isPair": true,
 		"imperfective": "производить",
-		"perfective": "<br>произвести"
+		"perfective": "произвести"
 	},
 	{
 		"rank": "497",
@@ -3933,7 +3933,7 @@
 		"translation": "to wait till, wait, await",
 		"isPair": true,
 		"imperfective": "дожидаться",
-		"perfective": "<br>дождаться"
+		"perfective": "дождаться"
 	},
 	{
 		"rank": "498",
@@ -3949,7 +3949,7 @@
 		"translation": "to implement, execute, accomplish",
 		"isPair": true,
 		"imperfective": "выполнять",
-		"perfective": "<br>выполнить"
+		"perfective": "выполнить"
 	},
 	{
 		"rank": "500",
